@@ -29,11 +29,24 @@ time, mark, audio, video {
     font-family: Arial;
     font-size: 2em;
     color: darkblue;
+    font: bolder;
+}
+
+.subtitle {
+    font-family: Arial;
+    font-size: 1em;
+    color: darkblue;
 }
 
 .content {
     font-family: Calibri;
     font-size: 1.55em;
+    color: black;
+}
+
+li {
+    font-family: Calibri;
+    font-size: 0.85em;
     color: black;
 }
 
